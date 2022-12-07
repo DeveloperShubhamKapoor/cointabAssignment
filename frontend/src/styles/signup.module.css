@@ -1,0 +1,18 @@
+.signup_form_container{
+    width: 40%;
+    padding: 10px;
+    margin: auto;
+    margin-top: 10%;
+}
+.signup_form_container>input{
+    width: 100%;
+    padding: 7px;
+    margin-bottom: 10px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+
+}
+.signup_form_container>button{
+    text-align: left;
+    border: 1px solid black;
+    padding: 5px 10px;
+}
